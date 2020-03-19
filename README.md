@@ -1,2 +1,2 @@
 # Feed
-A feed plugin for pocketmine!
+This Plugin Was Patched
