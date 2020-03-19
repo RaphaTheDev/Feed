@@ -1,5 +1,5 @@
 name: Feed
-main: RaphaTheDev\Feed
+main: RaphaTheDev\Main
 api: [3.8.1]
 version: 1.0
 author: RaphaTheDev
