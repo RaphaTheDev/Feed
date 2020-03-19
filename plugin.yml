@@ -1,0 +1,11 @@
+name: Feed
+main: RaphaTheDev\Feed
+api: [3.8.1]
+version: 1.0
+author: RaphaTheDev
+commands:
+  feed:
+    description: Feed Yourself
+permissions:
+  feed.use:
+    default: op
